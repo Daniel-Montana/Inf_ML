@@ -13,3 +13,5 @@ EM21F <- readRDS(base)
 
 ML <- merge(Gen, Ocup, by = "DIRECTORIO", "SECUENCIA_P", "ORDEN")
 
+a
+
